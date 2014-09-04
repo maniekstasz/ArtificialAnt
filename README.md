@@ -1,4 +1,4 @@
 ArtificialAnt
 =============
 
-There is no gui. Program only calculates ant moves. 
+Application only calculates ant moves. There is no gui or any output, but it could be added easily. 
